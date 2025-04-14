@@ -5,7 +5,7 @@
   Our library is very easy to implement into your projects by doing the following.
   ```lua
   -- 1. Load the library
-  local Sense = loadstring(game:HttpGet('https://raw.githubusercontent.com/eSKa-0/robloxesp/esp.lua'))()
+  local Sense = loadstring(game:HttpGet('https://raw.githubusercontent.com/eSKa-0/robloxesp/refs/heads/main/esp.lua'))()
   
   -- 2. Change the configuration.
   Sense.teamSettings.enemy.enabled = true
